@@ -1,5 +1,5 @@
 const headingOne = document.getElementById('heading-one');
-headingOne.innerText = 'Cinco de Mayo | Taco Tuesday Shopping List';
+headingOne.innerText = 'Shopping List';
 headingOne.style.color = 'red';
 
 //take what's been typed into the input and create a list item from it
